@@ -14,4 +14,4 @@ This project is a JavaScript implementation of the classic 2048 game.
 ### Controls
 - The game is controlled using the keyboard arrow keys.
 
-- [DEMO LINK](https://Yar14k.github.io/<repo_name>/)
+- [DEMO LINK](https://Yar14k.github.io/js_2048/)
