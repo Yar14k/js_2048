@@ -1,0 +1,17 @@
+## About
+
+This project is a JavaScript implementation of the classic 2048 game.
+
+### Features
+- Move tiles in all four directions
+- Merge tiles according to the original 2048 rules
+- Random generation of new tiles (2 or 4)
+- Score tracking
+- Win detection (2048 tile)
+- Game over detection when no moves are available
+- Restart game functionality
+
+### Controls
+- The game is controlled using the keyboard arrow keys.
+
+- [DEMO LINK](https://Yar14k.github.io/<repo_name>/)
