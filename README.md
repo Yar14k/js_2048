@@ -8,7 +8,7 @@ This project is a JavaScript implementation of the classic 2048 game.
 - JavaScript (ES6)
 - ESLint - Code quality
 
-### Features
+## Features
 - Move tiles in all four directions
 - Merge tiles according to the original 2048 rules
 - Random generation of new tiles (2 or 4)
@@ -17,7 +17,7 @@ This project is a JavaScript implementation of the classic 2048 game.
 - Game over detection when no moves are available
 - Restart game functionality
 
-### Controls
+## Controls
 - The game is controlled using the keyboard arrow keys.
 
 - [DEMO LINK](https://Yar14k.github.io/js_2048/)
