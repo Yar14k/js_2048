@@ -1,6 +1,5 @@
 'use strict';
 
-'use strict';
 class Game {
   constructor(initalState = null) {
     this.size = 4;
@@ -181,16 +180,16 @@ class Game {
         }
 
         if (
-          col < this.field[row].length - 1 &&
-          current === this.field[row][col + 1]
+          col < this.field[row].length - 1
+          && current === this.field[row][col + 1]
         ) {
           noMoves = false;
           break;
         }
 
         if (
-          row < this.field.length - 1 &&
-          current === this.field[row + 1][col]
+          row < this.field.length - 1
+          && current === this.field[row + 1][col]
         ) {
           noMoves = false;
           break;
