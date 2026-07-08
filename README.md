@@ -2,6 +2,12 @@
 
 This project is a JavaScript implementation of the classic 2048 game.
 
+## Technologies
+- HTML5
+- SCSS
+- JavaScript (ES6)
+- ESLint - Code quality
+
 ### Features
 - Move tiles in all four directions
 - Merge tiles according to the original 2048 rules
